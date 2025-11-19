@@ -1,0 +1,5 @@
+click
+httpx
+python-dotenv
+python-binance
+binance
